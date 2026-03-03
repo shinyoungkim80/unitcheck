@@ -49,6 +49,6 @@ test("boiling point: 100°C should equal 212°F", () => {
 });
 
 
-test("1 Liter should equal 999.26 gallons rounded", () => {
-  expect(litersToGallons(1)).toBe(999.26);
+test("1 Liter should equal 0.26 gallons rounded", () => {
+  expect(litersToGallons(1)).toBe(0.26);
 });
