@@ -1,2 +1,2 @@
 # unitcheck
-# by Shinyoung
+# by Shinyoung Kim
